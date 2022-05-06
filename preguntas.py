@@ -33,6 +33,7 @@ def pregunta_01():
 
     # Transforme `y` a un array de numpy usando reshape
     y_reshaped = np.reshape(y,-1)
+    #le pones values o to_numpy
 
     # Trasforme `X` a un array de numpy usando reshape
     X_reshaped = np.reshape(X, -1)
