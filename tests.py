@@ -8,7 +8,7 @@ import sys
 import preguntas
 
 # import preguntas
-preguntas = soluciones
+preguntas = preguntas
 
 
 def test_01():
